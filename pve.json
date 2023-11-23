@@ -6,8 +6,8 @@
             "HideIconAfter": 60,
             "IconURL": "https://i.imgur.com/Ehu8ftd.png",
             "DisableIconText": false,
-            "IconPosition": 0,
-            "IconTextColor": 0,
+            "IconPosition": 16,
+            "IconTextColor": 16,
             "OpenOnStart": false,
             "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 12
